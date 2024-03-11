@@ -51,6 +51,10 @@
 ![React Native](https://img.shields.io/badge/React_Native%20-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL+](https://img.shields.io/badge/SQL+%20-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL_Developer-%23EA4AAA.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 <br>
